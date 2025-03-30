@@ -11,8 +11,8 @@ const photos = [
     { src: "imagenes/cuadrilla3/semana1-4.jpeg", description: "Circuito Pedro Camejo", week: 1 },
     { src: "imagenes/cuadrilla3/semana1-3.jpeg", description: "Circuito Pedro Camejo", week: 1 },
     { src: "imagenes/cuadrilla3/semana1-2.jpeg", description: "Circuito Pedro Camejo", week: 1 },
-    { src: "imagenes/cuadrilla3/semana1-1.jpeg", description: "Circuito Pedro Camejo", week: 2 },
-    { src: "imagenes/cuadrilla3/semana1.jpeg", description: "Circuito Pedro Camejo", week: 2 },
+    { src: "imagenes/cuadrilla3/semana1-1.jpeg", description: "Circuito Pedro Camejo", week: 1 },
+    { src: "imagenes/cuadrilla3/semana1.jpeg", description: "Circuito Pedro Camejo", week: 1 },
 ];
 
 const videos = [
@@ -20,7 +20,7 @@ const videos = [
     { src: "videos/cuadrilla3/semana1-3.mp4", description: "Circuito Pedro Camejo", week: 1 },
     { src: "videos/cuadrilla3/semana1-2.mp4", description: "Circuito Pedro Camejo", week: 1 },
     { src: "videos/cuadrilla3/semana1-1.mp4", description: "Circuito Pedro Camejo", week: 1 },
-    { src: "videos/cuadrilla3/semana1.mp4", description: "Circuito Pedro Camejo", week: 2 }
+    { src: "videos/cuadrilla3/semana1.mp4", description: "Circuito Pedro Camejo", week: 1 }
 ];
 
 // Obtenemos las semanas únicas

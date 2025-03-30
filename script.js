@@ -7,8 +7,8 @@ const photos = [
     { src: "imagenes/cuadrilla1/semana1-4.jpeg", description: "Circuito Arichuna Cuadrilla 1", week: 1 },
     { src: "imagenes/cuadrilla1/semana1-3.jpeg", description: "Circuito Arichuna Cuadrilla 1", week: 1 },
     { src: "imagenes/cuadrilla1/semana1-2.jpeg", description: "Circuito Arichuna Cuadrilla 1", week: 1 },
-    { src: "imagenes/cuadrilla1/semana1-1.jpeg", description: "Circuito Arichuna Cuadrilla 1", week: 2 },
-    { src: "imagenes/cuadrilla1/semana1.jpeg", description: "Circuito Arichuna Cuadrilla 1", week: 2 },
+    { src: "imagenes/cuadrilla1/semana1-1.jpeg", description: "Circuito Arichuna Cuadrilla 1", week: 1 },
+    { src: "imagenes/cuadrilla1/semana1.jpeg", description: "Circuito Arichuna Cuadrilla 1", week: 1 },
 ];
 
 const videos = [
@@ -16,7 +16,7 @@ const videos = [
    // { src: "videos/cuadrilla1/semana1-3.mp4", description: "Circuito Arichuna Cuadrilla 1", week: 1 },
    // { src: "videos/cuadrilla1/semana1-2.mp4", description: "Circuito Arichuna Cuadrilla 1", week: 1 },
     //{ src: "videos/cuadrilla1/semana1-1.mp4", description: "Circuito Arichuna Cuadrilla 1", week: 1 },
-    { src: "videos/cuadrilla1/semana1.mp4", description: "Circuito Arichuna Cuadrilla 1", week: 2 }
+    { src: "videos/cuadrilla1/semana1.mp4", description: "Circuito Arichuna Cuadrilla 1", week: 1 }
 ];
 
 // Obtenemos las semanas únicas
